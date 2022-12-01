@@ -1,4 +1,4 @@
-## Oi eu sou o Vitor, estudante de programação
+## Oi eu sou o Vitor, estudante de programação 🤖
 <div align="center">
   <a href="https://github.com/vitor-nmk">
   <img height="42%" src="https://github-readme-stats.vercel.app/api?username=vitor-nmk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
